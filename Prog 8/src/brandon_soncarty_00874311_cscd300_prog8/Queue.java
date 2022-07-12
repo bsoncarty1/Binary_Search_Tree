@@ -1,6 +1,5 @@
 //Brandon Soncarty
 
-package brandon_soncarty_00874311_cscd300_prog8;
 
 //interface code given during class
 //changed some return variables and parameters to fit the program needs
